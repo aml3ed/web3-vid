@@ -1,3 +1,5 @@
+Here's the [discussions link]([url](https://github.com/aml3ed/web3-vid/discussions/1)) where you can leave feedback
+
 # Web3 Is Not About Crypto (Everyone Is Wrong)
 ## Intro
 - By now, you've been inindated with Web3 advocates peddling tokens, NFTs, and straight up scams.
