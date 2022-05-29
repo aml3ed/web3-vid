@@ -1,4 +1,4 @@
-Here's the [discussions link]([url](https://github.com/aml3ed/web3-vid/discussions/1)) where you can leave feedback
+Here's the [discussions link](https://github.com/aml3ed/web3-vid/discussions/1) where you can leave feedback
 
 # Web3 Is Not About Crypto (Everyone Is Wrong)
 ## Intro
