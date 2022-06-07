@@ -6,7 +6,7 @@
 - Decentralization - not financialization.
 - So, in this video, I'm going to break down what I think a decentralized web actually looks like and what that means for creators, makers, and citizens of the internet.
 
-## Ch1 - The Dawn of Web3
+## Ch1 - The ABCs of Web1...2...3
 - Talk about conditions/problems that led to web3
 	- Web1 being extremely disorganized, undiscoverable, and unscaleable
 		- Led to platforms and user-generated content/curation
@@ -18,9 +18,10 @@
 - Enter Bitcoin, Blockchain, and the Crypto Bro to save the day
 
 ## Ch2 - The Blockchain Bubble
-- Talk about how Blockchain was supposed to solve all of these problems
-- Talk about how/why it doesn't
+- Talk about how Blockchain was supposed to solve all of these problems: decentralization.
+- Talk about how/why it doesn't: financialization of everything.
 - Talk about Technocratic over-reliance on tech and mask of money that causes people to disconnect from actual social issues
+	- Technological Determinism
 - Talk about how people in this time (just like in 20s) are insecure, markets are bloated with cash, and people are vulnerable of scams (origin of Ponzi scheme)
 - Investors feel attaching Blockchain/Web3/Crypto to just the same implementations of solutions build hype/trust which allows them to make a ton more money
 - In reality, all of these Blockchain/Crypto companies were either Solution In Search Of A Problem or straight up scams
